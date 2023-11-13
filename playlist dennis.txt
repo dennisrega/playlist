@@ -976,9 +976,7 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="PIALA DUNIA U17", LIVE EVENT 9
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 
-==================MALAYSIA==========
-##### MALAYSIA ##### 
-
+##### MALAYSIA ####
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vXXJ1Sz/tv1.jpg" group-title="6.MALAYSIA", Tv 1 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
