@@ -1003,8 +1003,6 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extens
 #EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/9vY1hQK/ceria.jpg",Ceria http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
 #EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/5FCFV3H/citra.jpg",Citra http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="PIALA DUNIA U17", LIVE EVENT 9
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD 2023",AntMan & The Wasp Quantumania (2023) Cam
