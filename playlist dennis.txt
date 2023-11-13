@@ -976,33 +976,63 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extens
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="PIALA DUNIA U17", LIVE EVENT 9
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 
-##### MALAYSIA ####
+##### MALAYSIA ###
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vXXJ1Sz/tv1.jpg" group-title="6.MALAYSIA", Tv 1 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOwFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bXvs711/tv2.jpg" group-title="6.MALAYSIA", Tv 2 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bXvs711/tv2.jpg" group-title="6.MALAYSIA", Tv 2 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCJnLyZ/tv3.jpg" group-title="6.MALAYSIA", TV3 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCJnLyZ/tv3.jpg" group-title="6.MALAYSIA", TV3 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nr4P7Bx/oktv.jpg" group-title="6.MALAYSIA",Okey Tv https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nr4P7Bx/oktv.jpg" group-title="6.MALAYSIA",Okey Tv https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NY5S4KL/selangor.jpg" group-title="6.MALAYSIA",Selangor Tv https://skyios.sky4k.top/S1G_010/playlist.m3u8 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NY5S4KL/selangor.jpg" group-title="6.MALAYSIA",Selangor Tv https://skyios.sky4k.top/S1G_010/playlist.m3u8 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mNj2yXq/ds.jpg" group-title="6.MALAYSIA",Dunia Sinema https://unifilive05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBhrczp/Tv6.jpg" group-title="6.MALAYSIA",Tv 6 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KSnVLP/tv9.jpg" group-title="6.MALAYSIA",Tv9 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJcX5fY/sukan.jpg" group-title="6.MALAYSIA", Sukan Tv https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBhrczp/Tv6.jpg" group-title="6.MALAYSIA",Tv 6 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCxgLqk/awani.jpg" group-title="6.MALAYSIA",Astro Awani https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KSnVLP/tv9.jpg" group-title="6.MALAYSIA",Tv9 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJcX5fY/sukan.jpg" group-title="6.MALAYSIA", Sukan Tv https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCxgLqk/awani.jpg" group-title="6.MALAYSIA",Astro Awani https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jf4tzHz/beritartm.jpg" group-title="6.MALAYSIA",Berita Rtm https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MgsYwkT/ikim.jpg" group-title="6.MALAYSIA",Tv Ikim https://edgesg1.vediostream.com/abr/tvikim/playlist.m3u8 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
-#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/KGPDFzX/didiktv.jpg",Didik Tv https://unifilive05.secureswiftcontent.com/UnifiHD/live06.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.ibb.co/0FRMtrV/suria.jpg" group-title="6.MALAYSIA",Suria https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
-#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/pPZS4yv/oasis.jpg",Oasis http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/18 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
-#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/2ZZZ2kv/warna.jpg",Warna http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
-#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/mHD7SR2/ria.jpg",Ria http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
-#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/9vY1hQK/ceria.jpg",Ceria http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
+#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/KGPDFzX/didiktv.jpg",Didik Tv https://unifilive05.secureswiftcontent.com/UnifiHD/live06.mpd #KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.ibb.co/0FRMtrV/suria.jpg" group-title="6.MALAYSIA",Suria https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
+#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/pPZS4yv/oasis.jpg",Oasis 
+
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/18 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
+#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/2ZZZ2kv/warna.jpg",Warna http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
+#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/mHD7SR2/ria.jpg",Ria http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
+#EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/9vY1hQK/ceria.jpg",Ceria http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4 
 #EXTINF:-1 group-title="6.MALAYSIA" tvg-logo="https://i.ibb.co/5FCFV3H/citra.jpg",Citra http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD 2023",AntMan & The Wasp Quantumania (2023) Cam
