@@ -23,37 +23,37 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="National and Local", ANTV
+#EXTINF:-1 tvg-logo="https://cdn.pnghd.pics/data/6/antv-logo-png-36.jpg" group-title="National and Local", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="National and Local" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="National and Local", RCTI
+#EXTINF:-1 tvg-logo="https://a0.anyrgb.com/pngimg/74/850/okevision-statistika-televisi-indonesia-tvri-sctv-sign-rcti-citra-surya-camera-operator-thumbnail.png" group-title="National and Local", RCTI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="National and Local",RCTI HD
+#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://a0.anyrgb.com/pngimg/74/850/okevision-statistika-televisi-indonesia-tvri-sctv-sign-rcti-citra-surya-camera-operator-thumbnail.png" group-title="National and Local",RCTI HD
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157591
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="National and Local",MNC  TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1200px-MNCTV_logo_2015.svg.png" group-title="National and Local",MNC  TV HD
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/165054
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="National and Local", GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="National and Local", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="National and Local",GTV HD
+#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="National and Local",GTV HD
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157578
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="National and Local", TRANS TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png ===trantv" group-title="National and Local", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="National and Local", TRANS TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png ===trantv" group-title="National and Local", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="National and Local", TRANS 7
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="National and Local", TRANS 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="National and Local", TRANS7
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="National and Local", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="National and Local" tvg-id="rajawalitv.id" tvg-logo="http://libretv.my.id/assets/tv-logo/rtv.png",RTV HD
