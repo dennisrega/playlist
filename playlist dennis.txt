@@ -59,24 +59,21 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 #EXTINF:-1 group-title="National and Local" tvg-id="rajawalitv.id" tvg-logo="http://libretv.my.id/assets/tv-logo/rtv.png",RTV HD
 http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://libretv.my.id/assets/tv-logo/rtv.png", RTV  
+#EXTINF:-1 group-title="National and Local" tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg", RTV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="National and Local", Rajawali TV
+#EXTINF:-1 tvg-logo="https://assets.ayobandung.com/crop/8x454:454x664/750x500/webp/photo/2022/01/03/3502991424.jpg" group-title="National and Local", Rajawali TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="National and Local",TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="National and Local",TVONE
+#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="National and Local",TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 group-title="National and Local" tvg-logo="http://libretv.my.id/assets/tv-logo/net.png", NET 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="National and Local",iNews 
+#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/2560px-INews_TV_logo.svg.png" group-title="National and Local",iNews 
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157579
 
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
@@ -85,14 +82,14 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&ex
 
 #EXTINF:-1 group-title="National and Local" tvg-id="tvone.id" tvg-logo="http://libretv.my.id/assets/tv-logo/tvone.png",tvOne
 http://libretv.my.id/play/channels/yt/hls/by-id/yNKvkPJl-tg/master.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="National and Local", METRO TV HD
+#EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2017/09/Logo-Metro-TV-Istimewa-370x204.jpg" group-title="National and Local", METRO TV HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png", METRO TV  
+#EXTINF:-1 group-title="National and Local" tvg-logo="https://imgcdn.solopos.com/@space/2017/09/Logo-Metro-TV-Istimewa-370x204.jpg", METRO TV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="National and Local",NET HD
+#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="https://s4.bukalapak.com/img/4573349252/large/Stiker_Net_Tv.png" group-title="National and Local",NET HD
 http://iptvaruba.com:8080/osec/c5176e377c82/80292
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" tvg-id="" tvg-name"" group-title="National and Local",MOJI HD
 http://103.166.27.2:8112/play/a017
