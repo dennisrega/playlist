@@ -143,11 +143,11 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 group-title="National and Local" tvg-id="dmtvmalang.id" tvg-logo="http://libretv.my.id/assets/tv-logo/dmtv.png",DMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch51.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="National and Local", Lifetime
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="National and Local", Lifetime
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683129&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="National and Local", Life
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="National and Local", Life
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683125&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="National and Local", TV 9 Nusantara
+#EXTINF:-1 tvg-logo="http://libretv.my.id/assets/tv-logo/tv9_nusantara.png" group-title="National and Local", TV 9 Nusantara
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683196&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="National and Local" tvg-logo="http://libretv.my.id/assets/tv-logo/kilisuci_tv.png",Kilisuci TV
@@ -249,10 +249,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="National and Local",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="National and Local",Antara TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.legalyn.id/wp-content/uploads/2022/07/1200px-Antara_news_agency_logo.svg.png" group-title="National and Local",Antara TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:-1 group-title="National and Local", IDTV
+#EXTINF:-1 group-title="National and Local" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png", IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="National and Local",Digione (Max)
