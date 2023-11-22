@@ -808,7 +808,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 ############################################################################################################################################################
 ############################ ANAK-ANAK #############################################################################################################
 
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK",Biznet Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="ANAK-ANAK",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="ANAK-ANAK", Cinemachi Kids
@@ -839,12 +839,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="ANAK-ANAK", DreamWorks
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://tv.qreatifku.my.id/images/ik.png",INDIKIDS
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://swamediainc.storage.googleapis.com/swa.co.id/wp-content/uploads/sites/23/2021/07/26185436/IndiKids-Logo.jpg",INDIKIDS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-id="TELETUBBIES" tvg-logo="https://tv.qreatifku.my.id/images/teletubbies.png",TELETUBBIES
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-id="TELETUBBIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Teletubbies_Logo.png",TELETUBBIES
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 https://tinyurl.com/TiviMe-Teletubbies
 
@@ -855,12 +855,9 @@ https://kusnadipepenk.github.io/ntn/cn.m3u8
 https://kusnadipepenk.github.io/campeign/disch.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="ANAK-ANAK",Disney Jr (alt)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/1200px-DisneyChannelEMEA.svg.png" group-title="ANAK-ANAK",Disney Jr (alt)
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="", KARTUN SIS  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 
 ###########################    FIGHT SPORT   ###########################
 
