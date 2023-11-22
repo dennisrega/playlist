@@ -861,19 +861,19 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 
 ###########################    FIGHT SPORT   ###########################
 
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC SPORT 
+#EXTINF:-1 tvg-logo="https://www.sportingfree.com/wp-content/uploads/2020/11/UFC-Live-Stream-Free.jpg" group-title="FIGHT SPORT", UFC SPORT 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extension=ts&play_token=IuTBxI7wnr
 
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
+#EXTINF:-1 tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="FIGHT SPORT", EDGE SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014266&extension=ts&play_token=4CrIQYgTPx
 
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M7GO5Cb5MhI/sddefault.jpg" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", KOMBAT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Kombat_sport.png" group-title="FIGHT SPORT", KOMBAT SPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
 
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT NETWORK
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="FIGHT SPORT", FIGHT NETWORK
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29513_&extension=ts
 
 
