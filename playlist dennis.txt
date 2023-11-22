@@ -77,7 +77,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157579
 
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="National and Local", TV One
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="National and Local", TV One
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="National and Local" tvg-id="tvone.id" tvg-logo="http://libretv.my.id/assets/tv-logo/tvone.png",tvOne
@@ -101,43 +101,43 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 #EXTINF:-1 group-title="National and Local" tvg-id="mentaritv.id" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png",Mentari TV 
 http://103.166.27.2:8112/play/a018
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="National and Local", MNC News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f4/MNC_News_%282020%29.png/revision/latest?cb=20201115080259" group-title="National and Local", MNC News
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png", KOMPAS TV
+#EXTINF:-1 group-title="National and Local" tvg-logo="https://asset-2.tstatic.net/palu/foto/bank/images/kompastv-karer.jpg", KOMPAS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="National and Local" tvg-id="cnnindonesia.id" tvg-logo="http://libretv.my.id/assets/tv-logo/cnn_indonesia.png",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="National and Local", Berita Satu
+#EXTINF:-1 tvg-logo="https://www.sobatku.co.id/wp-content/uploads/2019/03/BeritaSatu-1.png" group-title="National and Local", Berita Satu
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="National and Local" tvg-id="magnachannel.id" tvg-logo="http://libretv.my.id/assets/tv-logo/magna_channel.png",Magna Channel
+#EXTINF:-1 group-title="National and Local" tvg-id="magnachannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="National and Local", JTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="National and Local", JTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="National and Local" tvg-id="jtv.id" tvg-logo="http://libretv.my.id/assets/tv-logo/jtv.png",JTV HD
 #EXTVLCOPT:http-user-agent=PL_12537IPTV/1.0 ExoPlayerLib/2.19.1
 http://libretv.my.id/play/channels/efemeks/jeteve/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="National and Local", JTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="National and Local", JTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="National and Local", OK TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341659629801988098/LT2XK1eM_400x400.jpg" group-title="National and Local", OK TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="National and Local", Entertainment
+#EXTINF:-1 tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png" group-title="National and Local", Entertainment
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="National and Local", Jak TV HD
+#EXTINF:-1 tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/09/14/546336534.jpg" group-title="National and Local", Jak TV HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683180&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="National and Local", Vision Prime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="National and Local", Vision Prime
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683124&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://libretv.my.id/assets/tv-logo/dhamma_tv.png",Dhamma TV
+#EXTINF:-1 group-title="National and Local" tvg-logo="https://dannisdigitaldesign.com/wp-content/uploads/2022/05/DDD-Graphic-04.png",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 group-title="National and Local" tvg-id="dmtvmalang.id" tvg-logo="http://libretv.my.id/assets/tv-logo/dmtv.png",DMTV
