@@ -879,18 +879,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT NETWORK
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29513_&extension=ts
 
-====================================================MALAYSIA===========================================================================
-
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTRO SPORTS", Astro Sport 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918984&extension=ts&play_token=6y9HS29VM3
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO SPORTS", Astro Sport 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918983&extension=ts&play_token=gcm2TixtOK
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ASTRO SPORTS", Astro Sport 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918982&extension=ts&play_token=E0fCypo3yb
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="PIALA DUNIA U17",INDOSIAR 1
 http://xtv.ooo:8080/owais1/12345/350972
