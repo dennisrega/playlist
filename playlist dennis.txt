@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="National and Local",INDOSIAR HD
 http://103.166.27.2:8112/play/a016
 
@@ -14,19 +10,11 @@ http://103.166.27.2:8112/play/a016
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="National and Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png", SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-
 #EXTINF:-1 group-title="National and Local" tvg-logo="http://libretv.my.id/assets/tv-logo/antv.png", ANTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pnghd.pics/data/6/antv-logo-png-36.jpg" group-title="National and Local", ANTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 group-title="National and Local" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://img1.pngdownload.id/20180629/ctw/kisspng-jakarta-rcti-streaming-television-streaming-media-rajawali-5b36cc10ccd805.6115925415303178408391.jpg" group-title="National and Local", RCTI
@@ -43,9 +31,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&ex
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="National and Local",GTV HD
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157578
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png ===trantv" group-title="National and Local", TRANS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png ===trantv" group-title="National and Local", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
